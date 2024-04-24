@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppMyCityRMV</string>
+
+    <string name="category_church">Church</string>
+    <string name="category_wedding">Wedding</string>
+    <string name="category_hotel">Hotel</string>
+    <string name="recommendation_details">Details</string>
+</resources>
